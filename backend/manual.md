@@ -1,4 +1,4 @@
-# ‎ ‎ ‎ ‎ ‎ ‎ MANUAL TEC 
+#  MANUAL TEC 
 
 
 ## Topologia 
@@ -59,8 +59,8 @@
 
 ## Creacion una dirección IP para la interfaz
   
-  R1(config)# interface [tipo] [número]
-  R1(config-if)# ip address [dirección IP] [máscara de subred]
+  R1(config)# interface [tipo] [número] 
+  R1(config-if)# ip address [dirección IP] [máscara de subred] 
 
 
   - Swtich VTP modo servidor
